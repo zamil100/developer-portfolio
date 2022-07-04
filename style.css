@@ -1,6 +1,7 @@
 body {
     font-family: 'Anton', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -36,4 +37,6 @@ section {
 
 .top-bannar {
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
